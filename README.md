@@ -33,6 +33,7 @@ Développée avec **CustomTkinter** pour une expérience utilisateur fluide et m
 <div align="center">
 <img src="https://github.com/drx-s/FractuVision/blob/main/images_interface/interface_main.jpg?raw=true " alt="FractuVision Interface" width="800" />
 </div>
+
 ### Fonctionnalités :
 - Importation d’une radiographie.
 - Prédiction automatique du type d’os et du statut (fracturé / normal).
