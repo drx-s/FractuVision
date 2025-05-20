@@ -29,7 +29,10 @@ Un **classificateur de type d’os** permet de rediriger automatiquement les ima
 ## 🖥️ Interface utilisateur
 
 Développée avec **CustomTkinter** pour une expérience utilisateur fluide et moderne.
-
+## 🖼️ Aperçu de l'interface utilisateur
+<div align="center">
+<img src="https://github.com/drx-s/FractuVision/blob/main/images_interface/interface_main.jpg?raw=true " alt="FractuVision Interface" width="800" />
+</div>
 ### Fonctionnalités :
 - Importation d’une radiographie.
 - Prédiction automatique du type d’os et du statut (fracturé / normal).
